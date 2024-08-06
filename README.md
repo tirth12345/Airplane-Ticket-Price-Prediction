@@ -9,3 +9,6 @@ Welcome to the Airplane Ticket Price Prediction AI Model repository! This projec
 - Feature Engineering: Considers various factors such as time of booking, seasonality, airline, destination, and more to enhance prediction accuracy.
 - Machine Learning Models: Employs state-of-the-art machine learning algorithms including Linear Regression, Random Forest, and Gradient Boosting for robust predictions.
 -Visualization: Provides graphical representations of price trends and predictions for better understanding and analysis.
+
+
+### Author: Tirth Chokshi
